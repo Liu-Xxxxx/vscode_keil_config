@@ -1,0 +1,46 @@
+{
+    /* 以下设置需要根据工程内容手动调整 *****************************************************/
+    /* keil-mdk程序完整路径 */
+    "uvPath": "E:/Keil_v5/UV4/UV4.exe",
+    /* keil工程文件 .uvprojx的完整路径 */
+    "uvprojxPath": "Project/MDK-ARM/project.uvprojx",
+    "C_Cpp.default.includePath": [
+        "E:\\Keil_v5\\ARM\\ARMCC\\include",
+        "E:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
+        "E:\\Keil_v5\\Local\\Arm\\Packs\\ARM\\CMSIS\\6.0.0\\CMSIS\\RTOS2\\Include",
+        "E:\\Keil_v5\\Local\\Arm\\Packs\\Keil\\MDK-Middleware\\7.17.0\\Network\\Include",
+    ],
+    /* 以下为vscode工作区配置 */
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/OBJ": true,
+        "**/DebugConfig/**": true,
+        "**/*.uvguix.muool":true,
+        "**/*.uvoptx":true,
+        "**/JLinkLog.txt":true,
+        "**/JLinkSettings.ini":true,
+        "**/EventRecorderStub.scvd":true,
+        "**/Objects/**":true,
+        "**/Listings/**":true,
+    },
+    "files.watcherExclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/OBJ": true,
+        "**/DebugConfig/**": true,
+        "**/*.uvguix.muool":true,
+        "**/*.uvoptx":true,
+        "**/JLinkLog.txt":true,
+        "**/JLinkSettings.ini":true,
+        "**/EventRecorderStub.scvd":true,
+        "**/Objects/**":true,
+        "**/Listings/**":true,
+    },
+}
