@@ -23,7 +23,7 @@
                     "owner": "c",
                     "fileLocation": [
                         "relative",
-                        "${workspaceFolder}/USER"
+                        "${config:uvProjxDocumentPath}"
                     ],
                     "pattern": {
                         "regexp": "^(.*)\\((\\d+)\\):\\s+(warning|error):\\s+(.*):\\s+(.*)$",
@@ -53,7 +53,7 @@
                     "owner": "c",
                     "fileLocation": [
                         "relative",
-                        "${workspaceFolder}/USER"
+                        "${config:uvProjxDocumentPath}"
                     ],
                     "pattern": {
                         "regexp": "^(.*)\\((\\d+)\\):\\s+(warning|error):\\s+(.*):\\s+(.*)$",

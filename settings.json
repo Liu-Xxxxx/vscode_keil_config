@@ -4,6 +4,8 @@
     "uvPath": "E:/Keil_v5/UV4/UV4.exe",
     /* keil工程文件 .uvprojx的完整路径 */
     "uvprojxPath": "Project/MDK-ARM/project.uvprojx",
+    /* 工程文件所在目录 */
+    "uvProjxDocumentPath":"D:\\ysd_code\\CapTester\\ESI_CPU_H7\\Project\\MDK-ARM",
     "C_Cpp.default.includePath": [
         "E:\\Keil_v5\\ARM\\ARMCC\\include",
         "E:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
