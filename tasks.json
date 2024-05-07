@@ -34,7 +34,15 @@
                         "message": 5
                     }
                 }
-            ]
+            ],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": true
+            }
         },
         {
             "label": "rebuild",
@@ -64,7 +72,15 @@
                         "message": 5
                     }
                 }
-            ]
+            ],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": true
+            }
         },
         {
             "label": "download",
@@ -78,7 +94,15 @@
                 "${config:uvprojxPath}"
             ],
             "group": "test",
-            "problemMatcher": []
+            "problemMatcher": [],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": true
+            }
         },
         {
             "label": "open in keil",
