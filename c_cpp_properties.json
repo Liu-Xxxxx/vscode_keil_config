@@ -7,8 +7,7 @@
                 "${default}"
             ],
             "defines": [
-                "USE_HAL_DRIVER",
-                "STM32F103xB",
+                "${default}",
                 "__CC_ARM",
                 "__arm__",
                 "__align(x)=",
