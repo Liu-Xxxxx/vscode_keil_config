@@ -7,10 +7,10 @@
     /* 工程文件所在目录 */
     "uvProjxDocumentPath":"D:\\ysd_code\\CapTester\\ESI_CPU_H7\\Project\\MDK-ARM",
     "C_Cpp.default.includePath": [
-        "E:\\Keil_v5\\ARM\\ARMCC\\include",
-        "E:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-        "E:\\Keil_v5\\Local\\Arm\\Packs\\ARM\\CMSIS\\6.0.0\\CMSIS\\RTOS2\\Include",
-        "E:\\Keil_v5\\Local\\Arm\\Packs\\Keil\\MDK-Middleware\\7.17.0\\Network\\Include",
+        "C:\\Program Files\\Keil\\ARM\\ARMCC\\include",
+        "C:\\Program Files\\Keil\\ARM\\ARMCC\\include\\rw",
+        "C:\\Users\\muoo.l\\AppData\\Local\\Arm\\Packs\\ARM\\CMSIS\\6.0.0\\CMSIS\\RTOS2\\Include",
+        "C:\\Users\\muoo.l\\AppData\\Local\\Arm\\Packs\\Keil\\MDK-Middleware\\7.17.0\\Network\\Include",
     ],
     /* 以下为vscode工作区配置 */
     "files.exclude": {
