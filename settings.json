@@ -3,20 +3,20 @@
     /* keil-mdk程序完整路径 */
     "uvPath": "C:\\Program Files\\Keil\\UV4\\UV4.exe",
     /* keil工程文件 .uvprojx的完整路径 */
-    "uvprojxPath": "MDK-ARM\\ProximitySensor.uvprojx",
+    // "uvprojxPath": "PROJECT\\MotorCtrl_index.uvprojx",
     /* 工程文件所在目录 */
-    "uvProjxDocumentPath":"D:\\ysd_code\\ProximitySensor\\Project\\MDK-ARM",
+    // "uvProjxDocumentPath":"D:\\ysd_code\\MotorControl_index_25\\PROJECT",
     "C_Cpp.default.includePath": [
         "C:\\Program Files\\Keil\\ARM\\ARMCC\\include",
         "C:\\Program Files\\Keil\\ARM\\ARMCC\\include\\rw",
         "C:\\Users\\muoo.l\\AppData\\Local\\Arm\\Packs\\ARM\\CMSIS\\6.0.0\\CMSIS\\RTOS2\\Include",
         "C:\\Users\\muoo.l\\AppData\\Local\\Arm\\Packs\\Keil\\MDK-Middleware\\7.17.0\\Network\\Include",
     ],
-    "C_Cpp.default.defines": [
-        "USE_HAL_DRIVER",
-        "STM32F103xB",
-        "USE_FULL_LL_DRIVER",
-    ],
+    /* 项目中需要定义的宏 */
+    // "C_Cpp.default.defines": [
+    //     "USE_STDPERIPH_DRIVER",
+    //     "STM32F10X_HD",
+    // ],
     "C_Cpp.default.compilerPath": "",
     "C_Cpp.default.cStandard": "c99",
     "C_Cpp.default.intelliSenseMode": "gcc-arm"
