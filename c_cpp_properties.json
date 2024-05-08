@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "ProximitySensor",
+            "name": "keil-ac5",
             "includePath": [
                 "${workspaceFolder}/**",
                 "${default}"
@@ -80,8 +80,7 @@
                 "__wfi()=",
                 "__yield()=",
                 "__vfp_status(x,y)=0"
-            ],
-            "intelliSenseMode": "${default}"
+            ]
         }
     ],
     "version": 4
